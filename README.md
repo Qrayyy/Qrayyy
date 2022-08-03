@@ -8,7 +8,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Qrayyy.Qrayyy)
 
 - 🔭 I’m currently working on Moresec.cn
-- 🌱 I’m currently learning all
+- 🌱 I’m currently learning Code audit
 - 📫 caicaizi.top(文章已删，从心开始)
 - 😄 Pronouns: nerver settle!
 - ⚡ 渗透|音乐|游戏  谦友一枚~
