@@ -10,5 +10,5 @@
 - 🔭 I’m currently working on Moresec.cn
 - 🌱 I’m currently learning Code audit
 - 📫 caicaizi.top(文章已删，从心开始)
-- 😄 Pronouns: nerver settle!
+- 😄 Pronouns: You can call me 陈冠西!
 - ⚡ 渗透|音乐|游戏  谦友一枚~
