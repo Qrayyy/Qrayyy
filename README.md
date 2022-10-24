@@ -10,4 +10,4 @@
 - 🌱 I’m currently learning Code audit
 - 📫 caicaizi.top(文章已删，从心开始)
 - 😄 Pronouns: You can call me Q_ray!
-- ⚡ 渗透|音乐|游戏  谦友一枚~
+- ⚡ Hack|music|movie 
