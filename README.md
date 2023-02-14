@@ -6,8 +6,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Qrayyy.Qrayyy)
 
-- 🔭 I’m currently working on 墨尔瑟克
+- 🔭 I’m currently working on 
 - 🌱 I’m currently learning Code audit
-- 📫 caicaizi.top(文章已删，从心开始)
+- 📫 caicaizi.top
 - 😄 Pronouns: You can call me Q_ray!
 - ⚡ Hack|music|movie 
