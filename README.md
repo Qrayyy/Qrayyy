@@ -6,7 +6,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Qrayyy.Qrayyy)
 
-- 🔭 I’m currently working in ZD
+- 🔭 I’m currently working in CSC
 - 🌱 I’m currently learning Code audit
 - 📫 ***
 - 😄 Pronouns: You can call me Q_ray!
